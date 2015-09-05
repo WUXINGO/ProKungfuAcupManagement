@@ -20,3 +20,12 @@ It would be a management applications for a specific industry.
     1. Coding in: PHP, MySql, HTML, JavaScript, JSON, CSS
     2. Front end libs: Bootstrap, jQuery
     3. Apis: 
+
+
+#Log 09/04/2015
+
+1. Create and update index.html. -- main page. 
+2. Create and update signup.html. -- registration page for customer.
+3. Create and update signup_rw.php -- registration application logics. 
+4. Create Project Repository -- Professional Kungfu Management. 
+

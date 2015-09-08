@@ -29,3 +29,7 @@ It would be a management applications for a specific industry.
 3. Create and update signup_rw.php -- registration application logics. 
 4. Create Project Repository -- Professional Kungfu Management. 
 
+#Log 09/07/2015
+1. Integrated websites and web applications along with back end management.
+2. Replaced the text form by using the summernote plugin. 
+

@@ -33,3 +33,5 @@ It would be a management applications for a specific industry.
 1. Integrated websites and web applications along with back end management.
 2. Replaced the text form by using the summernote plugin. 
 
+#Log 09/12/2015
+1. Fixed a few of bugs regarding login functions. When user login, users cannot be redirected.

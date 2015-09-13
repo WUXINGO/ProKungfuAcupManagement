@@ -35,3 +35,9 @@ It would be a management applications for a specific industry.
 
 #Log 09/12/2015
 1. Fixed a few of bugs regarding login functions. When user login, users cannot be redirected.
+
+#Log 09/13/2015
+1. Fixed a few of bugs regarding forwarding the crowding emails to the customers. 
+2. Upload them to the hosting server. 
+3. Add the subdomain on the hosting server. 
+

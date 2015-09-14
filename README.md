@@ -43,3 +43,4 @@ It would be a management applications for a specific industry.
 * Improve the function of the selection mail sending, and add the advanced the text editor in it. 
 * Fixed some bugs related to the crowding emailing functions.
 * Fixed a redirection issue caused by header() and include () in php
+* Add the social media buttons on Main page, and upgraded the version of font-awesome on Main page. 

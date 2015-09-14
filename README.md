@@ -40,4 +40,5 @@ It would be a management applications for a specific industry.
 1. Fixed a few of bugs regarding forwarding the crowding emails to the customers. 
 2. Upload them to the hosting server. 
 3. Add the subdomain on the hosting server. 
-
+4. Improve the function of the selection mail sending, and add the advanced the text editor in it. 
+5. Fixed some bugs related to the crowding emailing functions.

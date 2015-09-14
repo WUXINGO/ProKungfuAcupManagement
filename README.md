@@ -24,21 +24,22 @@ It would be a management applications for a specific industry.
 
 #Log 09/04/2015
 
-1. Create and update index.html. -- main page. 
-2. Create and update signup.html. -- registration page for customer.
-3. Create and update signup_rw.php -- registration application logics. 
-4. Create Project Repository -- Professional Kungfu Management. 
+* Create and update index.html. -- main page. 
+* Create and update signup.html. -- registration page for customer.
+* Create and update signup_rw.php -- registration application logics. 
+* Create Project Repository -- Professional Kungfu Management. 
 
 #Log 09/07/2015
-1. Integrated websites and web applications along with back end management.
-2. Replaced the text form by using the summernote plugin. 
+* Integrated websites and web applications along with back end management.
+* Replaced the text form by using the summernote plugin. 
 
 #Log 09/12/2015
-1. Fixed a few of bugs regarding login functions. When user login, users cannot be redirected.
+* Fixed a few of bugs regarding login functions. When user login, users cannot be redirected.
 
 #Log 09/13/2015
-1. Fixed a few of bugs regarding forwarding the crowding emails to the customers. 
-2. Upload them to the hosting server. 
-3. Add the subdomain on the hosting server. 
-4. Improve the function of the selection mail sending, and add the advanced the text editor in it. 
-5. Fixed some bugs related to the crowding emailing functions.
+* Fixed a few of bugs regarding forwarding the crowding emails to the customers. 
+* Upload them to the hosting server. 
+* Add the subdomain on the hosting server. 
+* Improve the function of the selection mail sending, and add the advanced the text editor in it. 
+* Fixed some bugs related to the crowding emailing functions.
+* Fixed a redirection issue caused by header() and include () in php
